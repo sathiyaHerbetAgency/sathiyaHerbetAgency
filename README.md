@@ -39,14 +39,28 @@ Track reach, engagement, hashtags, reels performance with charts and insights.
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathiyaHerbetAgency&theme=tokyonight" alt="streak" />
-</p>
+## 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sathiyaHerbetAgency&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyaHerbetAgency&layout=compact&theme=tokyonight" height="170" />
-</p>
+<a href="https://github.com/sathiyaHerbetAgency">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sathiyaHerbetAgency&show_icons=true&theme=tokyonight"
+    alt="Sathiya's GitHub stats"
+  />
+</a>
+
+<a href="https://github.com/sathiyaHerbetAgency">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyaHerbetAgency&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
+</a>
+
+<a href="https://github.com/sathiyaHerbetAgency">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=sathiyaHerbetAgency&theme=tokyonight"
+    alt="GitHub streak"
+  />
+</a>
 
 ---
 
