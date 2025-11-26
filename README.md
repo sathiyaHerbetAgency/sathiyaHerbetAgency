@@ -40,19 +40,19 @@ Track reach, engagement, hashtags, reels performance with charts and insights.
 
 ## 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathiyasankar&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathiyaHerbetAgency&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sathiyasankar&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyasankar&layout=compact&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=sathiyaHerbetAgency&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyaHerbetAgency&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
 ## 📬 Connect With Me
 - Portfolio: *(add when ready)*  
-- LinkedIn: https://www.linkedin.com/in/sathiyasankar  
-- Email: sathiya.workmail@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sathiyasank
+- Email: sathiyasankar0107@gmail.com
 
 If you're working on something interesting or want to collaborate, feel free to reach out!
