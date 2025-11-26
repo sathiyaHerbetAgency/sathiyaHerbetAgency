@@ -38,23 +38,7 @@ Track reach, engagement, hashtags, reels performance with charts and insights.
 
 ---
 
-## 📈 GitHub Stats
 ## 📊 GitHub Stats
-
-<a href="https://github.com/sathiyaHerbetAgency">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sathiyaHerbetAgency&show_icons=true&theme=tokyonight"
-    alt="Sathiya's GitHub stats"
-  />
-</a>
-
-<a href="https://github.com/sathiyaHerbetAgency">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyaHerbetAgency&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
-</a>
-
 <a href="https://github.com/sathiyaHerbetAgency">
   <img
     src="https://github-readme-streak-stats-eight.vercel.app?user=sathiyaHerbetAgency&theme=tokyonight"
