@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hey, I'm Sathiya — Full-Stack Developer & Indie Builder
 
-<!--
-**sathiyaHerbetAgency/sathiyaHerbetAgency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building clean, fast and user-centric applications.  
+I’m currently working remotely as a full-stack dev, while building multiple micro-SaaS products in the areas of content, analytics, automation and finance.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- Build production-grade apps with **Next.js + Node.js**
+- Design dashboards, automations & AI tools for real users  
+- Create micro-SaaS that solve real business problems  
+- Focus on performance, SEO, Core Web Vitals & clean UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech I Work With
+**Frontend:** Next.js • React • TypeScript • TailwindCSS • Shadcn  
+**Backend:** Node.js • Express • NestJS • Prisma  
+**Database:** PostgreSQL • MongoDB • Supabase  
+**DevOps:** Vercel • Netlify • Render • Cloudflare  
+**Other:** Stripe • Meta API • Figma • Webhooks
+
+---
+
+## 🧩 Projects I Built
+### 🔹 **Kiraa – Invoice & Accounting SaaS**
+Simple accounting platform inspired by Xero with invoicing, clients, payments, analytics & PDF generation.
+
+### 🔹 **Handine – QR Menu + Restaurant Ordering**
+QR-powered contactless menu system with live orders, realtime status and beautiful UI.
+
+### 🔹 **Invoxy – Instant Invoice Builder**
+Build & download invoices as PDF instantly.  
+Focused on performance and clean UI for small businesses.
+
+### 🔹 **Post-Analysis – Instagram Analytics Dashboard**
+Track reach, engagement, hashtags, reels performance with charts and insights.
+
+> I keep building & shipping new tools—check my repos :)
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathiyasankar&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sathiyasankar&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyasankar&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 📬 Connect With Me
+- Portfolio: *(add when ready)*  
+- LinkedIn: https://www.linkedin.com/in/sathiyasankar  
+- Email: sathiya.workmail@gmail.com  
+
+If you're working on something interesting or want to collaborate, feel free to reach out!
