@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sathiya Sank — Full-Stack Developer
+# 👋 Hey, I'm Sathiya Sankar — Full-Stack Developer
 
 I love building clean, fast and user-centric applications.  
 I’m currently working remotely as a full-stack dev, while building multiple micro-SaaS products in the areas of content, analytics, automation and finance.
